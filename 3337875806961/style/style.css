@@ -594,9 +594,11 @@
   #la-roche.la-roche .es-cross__name {
     font-size: 18px;
   }
-
   #la-roche.la-roche .es-cross__desc {
     font-size: 18px;
+  }
+  #la-roche.la-roche .es-cross__link {
+    font-size: 12px;
   }
 }
 @media screen and (min-width: 1241px) {
