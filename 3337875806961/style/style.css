@@ -549,7 +549,7 @@
 }
 @media screen and (min-width: 800px) {
   #la-roche.la-roche .es-cross__single img {
-    height: 450px;
+    height: 400px;
   }
   #la-roche.la-roche .es-cross__single--2 {
     /* right: 40px; */
@@ -583,16 +583,12 @@
   }
 }
 @media screen and (min-width: 1001px) {
-  #la-roche.la-roche .es-cross__single img {
-    height: 450px;
-  }
   #la-roche.la-roche .es-cross__single {
     width: 45%;
   }
   #la-roche.la-roche .es-cross__single--3 {
     width: 55%;
   }
-
   #la-roche.la-roche {
     max-width: 571px;
   }
@@ -626,5 +622,14 @@
   }
   #la-roche.la-roche .es-results__single {
     flex-basis: 20ch;
+  }
+  #la-roche.la-roche .es-cross__single img {
+    height: 450px;
+  }
+  #la-roche.la-roche .es-cross__single--3 img {
+    margin-right: 45px;
+  }
+  #la-roche.la-roche .es-cross__single--1 img {
+    height: 480px;
   }
 } /*# sourceMappingURL=style.css.map */
